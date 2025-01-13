@@ -2,4 +2,4 @@
 
 Vanilla (input text)
 
-Chocolate chip ice cream (input text)
+Chocolate chip ice cream is a solid ice cream flavor.
