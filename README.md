@@ -2,4 +2,4 @@
 
 Vanilla (input text)
 
-Chocolate chip ice cream is a solid ice cream flavor.
+Chocolate chip cookie dough ice cream is a solid ice cream flavor.
